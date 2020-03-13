@@ -1,1 +1,1 @@
-# game_no1
+# Repozytorium zawierające kod pierwszej prostej gry w pythonie pygame
